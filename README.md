@@ -32,7 +32,7 @@ i)  czyścimy wcześniejsze ustawienia, zaczynamy od początku obliczenia, cyfra
 
 j)  potwarzamy ostatnie działanie jeśli ono było, jeśli nie, to bez zmian.
 
-Więcej szczegółów i przykładów działania można znaleść na:
+Więcej szczegółów i przykładów działania można znaleść na: http://programowanie.orzechowski.it/dodk.html
 
 
 ## GUI
