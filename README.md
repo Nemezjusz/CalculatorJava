@@ -16,7 +16,7 @@ b)  operator - cyfra:   nowa cyfra będzie wstawiana jako składowa wartość dr
 
 c)  operator - znak =  wyliczamy wartość wyrażenia jako:
 
-[wartość pierwszego argumentu]  <operator>  [wartość pierwszego argumentu]
+[wartość pierwszego argumentu]  operator  [wartość pierwszego argumentu]
 
 d)  czyścimy wszystkie wartości operatorów - przywracamy stan z początku pracy kalkulatora;
 
